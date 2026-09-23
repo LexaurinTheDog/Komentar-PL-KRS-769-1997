@@ -410,15 +410,15 @@ Przepis określa treść działu 2 rejestru przedsiębiorców, obejmującego dan
 >
 > 4) wzmiankę o złożeniu uchwały bądź postanowienia o zatwierdzeniu sprawozdania finansowego i skonsolidowanego sprawozdania grupy kapitałowej oraz podziale zysku lub pokryciu straty;
 >
-> 5) wzmiankę o złożeniu sprawozdania z działalności i sprawozdania z działalności grupy kapitałowej, jeżeli przepisy o rachunkowości wymagają ich złożenia do sądu rejestrowego;
+> 5)⁽¹⁰⁾ wzmiankę o złożeniu sprawozdania z działalności i sprawozdania z działalności grupy kapitałowej, jeżeli przepisy o rachunkowości wymagają ich złożenia do sądu rejestrowego;
 >
 > 5a) wzmiankę o złożeniu sprawozdania z płatności na rzecz administracji publicznej oraz skonsolidowanego sprawozdania z płatności na rzecz administracji publicznej, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
 >
-> 5b) wzmiankę o złożeniu sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej z państwa spoza Europejskiego Obszaru Gospodarczego, jednostki dominującej wyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub sprawozdawczości zrównoważonego rozwoju jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, jeżeli przepisy o rachunkowości wymagają jej złożenia do sądu rejestrowego;
+> 5b)⁽¹¹⁾ wzmiankę o złożeniu sprawozdawczości zrównoważonego rozwoju grupy kapitałowej jednostki dominującej z państwa spoza Europejskiego Obszaru Gospodarczego, jednostki dominującej wyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub jednostki dominującej najwyższego szczebla z państwa spoza Europejskiego Obszaru Gospodarczego lub sprawozdawczości zrównoważonego rozwoju jednostki samodzielnej z państwa spoza Europejskiego Obszaru Gospodarczego, jeżeli przepisy o rachunkowości wymagają jej złożenia do sądu rejestrowego;
 >
-> 5c) wzmiankę o złożeniu sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
+> 5c)⁽¹¹⁾ wzmiankę o złożeniu sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
 >
-> 5d) wzmiankę o złożeniu sprawozdania o podatku dochodowym, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
+> 5d)⁽¹²⁾ wzmiankę o złożeniu sprawozdania o podatku dochodowym, jeżeli przepisy o rachunkowości wymagają jego złożenia do sądu rejestrowego;
 >
 > 6) (uchylony)
 >
@@ -426,13 +426,11 @@ Przepis określa treść działu 2 rejestru przedsiębiorców, obejmującego dan
 >
 > 8) informację o dniu kończącym rok obrotowy.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 3 pkt 6 lit. a ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863); weszła w życie z dniem 1 kwietnia 2025 r.
+*Odnośnik w tekście jednolitym* 10) W brzmieniu ustalonym przez art. 3 pkt 6 lit. a ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863); weszła w życie z dniem 1 kwietnia 2025 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 3 pkt 6 lit. b ustawy, o której mowa w odnośniku 10; weszła w życie z dniem 1 kwietnia 2025 r.
+*Odnośnik w tekście jednolitym* 11) Dodany przez art. 3 pkt 6 lit. b ustawy, o której mowa w odnośniku 10; weszła w życie z dniem 1 kwietnia 2025 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 3 pkt 6 lit. b ustawy, o której mowa w odnośniku 10; weszła w życie z dniem 1 kwietnia 2025 r.
-
-*Odnośnik w tekście jednolitym:* Dodany przez art. 2 pkt 6 ustawy, o której mowa w odnośniku 3; wszedł w życie z dniem 22 czerwca 2025 r.
+*Odnośnik w tekście jednolitym* 12) Dodany przez art. 2 pkt 6 ustawy, o której mowa w odnośniku 3; wszedł w życie z dniem 22 czerwca 2025 r.
 
 Przepis reguluje treść działu 3 rejestru przedsiębiorców, poświęconego przedmiotowi działalności podmiotu oraz jego obowiązkom sprawozdawczym. Punkt 1 nakazuje wskazanie przedmiotu działalności według Polskiej Klasyfikacji Działalności (PKD) w liczbie nie większej niż dziesięć pozycji, w tym obowiązkowego wskazania jednego przedmiotu przeważającej działalności na poziomie podklasy (dla oddziałów przedsiębiorców zagranicznych oraz głównych oddziałów zagranicznych zakładów ubezpieczeń i reasekuracji przedmiot działalności określa się odrębnie dla samego oddziału, a nie dla podmiotu macierzystego). Punkty 2–5d dotyczą wzmianek o wykonaniu obowiązków sprawozdawczych wynikających z przepisów o rachunkowości: o złożeniu sprawozdania finansowego i skonsolidowanego sprawozdania grupy kapitałowej wraz z datami (pkt 2), o złożeniu sprawozdania z badania przez firmę audytorską (pkt 3), o złożeniu uchwały lub postanowienia zatwierdzającego sprawozdanie finansowe oraz o podziale zysku lub pokryciu straty (pkt 4), o złożeniu sprawozdania z działalności (pkt 5), a także – w punktach dodanych późniejszymi nowelizacjami – o złożeniu sprawozdania z płatności na rzecz administracji publicznej (pkt 5a), sprawozdawczości zrównoważonego rozwoju grupy kapitałowej lub jednostki spoza Europejskiego Obszaru Gospodarczego (pkt 5b), sprawozdania z atestacji sprawozdawczości zrównoważonego rozwoju (pkt 5c) oraz sprawozdania o podatku dochodowym (pkt 5d). Punkt 7 przewiduje wzmiankę o braku obowiązku sporządzenia i złożenia sprawozdania finansowego, a punkt 8 – informację o dniu kończącym rok obrotowy podmiotu. Punkt 6 został uchylony. Załączone przypisy urzędowe wskazują, że punkty 5b i 5c zostały dodane nowelizacją z 6 grudnia 2024 r. (Dz. U. poz. 1863) i weszły w życie 1 kwietnia 2025 r., w ramach implementacji unijnych wymogów dotyczących sprawozdawczości zrównoważonego rozwoju przedsiębiorstw (raportowania niefinansowego, tzw. CSRD), natomiast punkt 5d – w ramach nowelizacji implementującej obowiązek publicznego raportowania podatku dochodowego (tzw. public country-by-country reporting), wszedł w życie 22 czerwca 2025 r. Dane działu 3 mają istotne znaczenie zarówno informacyjne dla kontrahentów (przedmiot działalności), jak i kontrolne – umożliwiają sądowi rejestrowemu i osobom trzecim monitorowanie wykonywania obowiązków sprawozdawczych, których zaniechanie może prowadzić do zastosowania sankcji z art. 24 i nast.
 
@@ -786,14 +784,14 @@ Przepis pominięty w niniejszym opracowaniu; miał charakter przejściowy, zwią
 
 **Brzmienie przepisu:**
 
-> Art. 88. Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym, z wyjątkiem:
+> Art. 88. Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym⁽¹³⁾, z wyjątkiem:
 >
-> 1) przepisów art. 6, art. 19 ust. 4, art. 48, art. 54, art. 83 i art. 87, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+> 1) przepisów art. 6, art. 19 ust. 4, art. 48, art. 54, art. 83 i art. 87, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia⁽¹⁴⁾;
 >
 > 2) przepisów art. 85, które wchodzą w życie z dniem 1 stycznia 1998 r.
 
-*Odnośnik w tekście jednolitym:* Ustawa weszła w życie z dniem 1 stycznia 2001 r., na podstawie art. 1 ustawy z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. poz. 770 oraz z 2000 r. poz. 1194), z wyjątkiem art. 38 pkt 1 lit. f, który wszedł w życie z dniem 1 kwietnia 2001 r.
+*Odnośnik w tekście jednolitym* 13) Ustawa weszła w życie z dniem 1 stycznia 2001 r., na podstawie art. 1 ustawy z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym (Dz. U. poz. 770 oraz z 2000 r. poz. 1194), z wyjątkiem art. 38 pkt 1 lit. f, który wszedł w życie z dniem 1 kwietnia 2001 r.
 
-*Odnośnik w tekście jednolitym:* Ustawa została ogłoszona w dniu 7 października 1997 r.
+*Odnośnik w tekście jednolitym* 14) Ustawa została ogłoszona w dniu 7 października 1997 r.
 
 Przepis zamyka ustawę, regulując zasady jej wejścia w życie. Zgodnie z jego treścią ustawa wchodzi w życie w terminie i na zasadach określonych odrębną ustawą – Przepisami wprowadzającymi ustawę o Krajowym Rejestrze Sądowym – co było typowym dla ówczesnej praktyki legislacyjnej rozwiązaniem, oddzielającym samą regulację materialną (ustawę o KRS) od odrębnego aktu regulującego harmonogram i warunki jej wdrożenia (w tym m.in. terminy graniczne dla przerejestrowania podmiotów z dotychczasowych rejestrów do nowo utworzonego Krajowego Rejestru Sądowego). Punkt 1 przewiduje wyjątek dla części przepisów (art. 6, art. 19 ust. 4, art. 48, art. 54, art. 83 i art. 87), które weszły w życie już po upływie 14 dni od ogłoszenia ustawy – a więc wcześniej niż zasadnicza część ustawy, co miało umożliwić przygotowanie organizacyjne do uruchomienia nowego systemu rejestrowego (np. przepisy przejściowe czy kompetencyjne). Punkt 2 przewiduje odrębny termin wejścia w życie przepisów art. 85 – z dniem 1 stycznia 1998 r. Załączone przypisy urzędowe precyzują faktyczny przebieg wejścia ustawy w życie: zasadnicza część ustawy weszła w życie z dniem 1 stycznia 2001 r., na podstawie art. 1 ustawy z dnia 20 sierpnia 1997 r. – Przepisy wprowadzające ustawę o Krajowym Rejestrze Sądowym, z wyjątkiem art. 38 pkt 1 lit. f, który wszedł w życie odrębnie, z dniem 1 kwietnia 2001 r. (a więc już po uruchomieniu samego Rejestru) – co oznacza, że między uchwaleniem ustawy (1997 r.) a faktycznym rozpoczęciem funkcjonowania Krajowego Rejestru Sądowego (2001 r.) upłynął ponad trzyletni okres przejściowy, przeznaczony na przygotowanie organizacyjne, techniczne i legislacyjne całego systemu. Drugi przypis wskazuje datę ogłoszenia ustawy – 7 października 1997 r.
